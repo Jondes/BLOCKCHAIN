@@ -1,0 +1,12 @@
+ethereum.org       download a wallet
+remix.ethereum.org    
+
+* All chains, private, public, test etc are the same
+* They start with a genesis block
+* Don't loose your private keys
+*Access to the blockchain is client-side
+* Current way of mining: Proof of work (PoW)
+
+
+
+What is BLOCKCHAIN? The best explanation of blockchain technology     youtube
